@@ -1,0 +1,61 @@
+body {
+  /*margin: 0;*/
+  
+  color:slateblue;
+  font-family: Helvetica, sans-serif;
+  font-size: 2em;
+  /*text-align: right; */
+  text-shadow: 2px 2px grey;
+  border: 10px 10px groove white;
+  border-radius: 15px; 
+  outline-color: black;
+
+}
+
+.center {
+  display: block;
+  padding: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:hover {
+    background-color: lightseagreen;
+  }
+
+.links {
+  font-size: 1em;
+  text-align: center;
+}
+
+.gamelinks {
+  text-align: center; 
+}
+
+.contact {
+  text-align: center; 
+}
+
+h1{
+  text-align: center;
+}
+  
+h2{
+  color:slateblue;
+  text-align: center;
+}
+
+h3{
+  color:slateblue;
+  font-size: 1em;
+  text-align: center;
+}
+
+footer {
+  padding: 1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+  
